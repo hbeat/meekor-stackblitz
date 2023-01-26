@@ -15,13 +15,13 @@ const PayBillPage = () => {
         <div class="flex w-full">
           <div class="w-2/4">Account Detail</div>
           <div class="w-2/4">
-            <button onclick={}>คัดลอก</button>
+            <button onclick={()=>{}}>คัดลอก</button>
           </div>
         </div>
         <div>
           <Link to="/qrpay"><button class="w-full">จ่ายด้วย QR</button></Link>
           <Link to="/banktransfer">
-          <button class="w-full" onclick={}>ส่งสลิปโอนผ่านบัญชี </button>
+          <button class="w-full" onclick={()=>{}}>ส่งสลิปโอนผ่านบัญชี </button>
           </Link>
           <Link to="/cashpay">
           <button class="w-full">จ่ายเงินสด</button></Link>

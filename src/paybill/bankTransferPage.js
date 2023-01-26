@@ -14,7 +14,7 @@ const BankTransferPage = () => {
           <img></img>
         </div>
         <div>
-          <button class="w-full" onclick={}>อัพโหลดรูป slip</button>
+          <button class="w-full" onclick={()=>{}}>อัพโหลดรูป slip</button>
         </div>
       </div>
     </div>

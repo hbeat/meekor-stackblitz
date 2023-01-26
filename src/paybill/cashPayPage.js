@@ -11,7 +11,7 @@ const CashPayPage = () => {
           <h1 class="w-2/4">{price} บาท</h1>
         </div>
         <div>
-          <button class="w-full" onclick={}>ยืนยันการจ่าย</button>
+          <button class="w-full" onclick={()=>{}}>ยืนยันการจ่าย</button>
         </div>
       </div>
     </div>

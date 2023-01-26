@@ -1,4 +1,3 @@
-import React from "react";
 import { useLocation } from "react-router-dom";
 import Sheet from "react-modal-sheet";
 import styled from "styled-components";
